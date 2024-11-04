@@ -27,4 +27,4 @@ Aplikasi ini menawarkan fitur:
 4. Maka Hasil Akan Tampil, Tekan Hapus pada Button Hapus, Jika Ingin Menghapus, dan Tekan Button Keluar, jika ingin keluar 
 
 # Demo
-![App Screenshot](img/Angka.png) 
+![App Screenshot](img/Tugas1.png)
